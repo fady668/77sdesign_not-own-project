@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+
+  font-family: "Rotunda", Arial, Verdana, Tahoma, sans-serif;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+span,
+label {
+  color: #3d3d3f;
+}
+@font-face {
+  font-family: "Rotunda";
+  src: url(../public/fonts/Rotunda-Regular.ttf);
+}
+@font-face {
+  font-family: "Rotunda-bold";
+  src: url(../public/fonts/Rotunda-Bold.ttf);
+}
+@font-face {
+  font-family: "Rotunda-thin";
+  src: url(../public/fonts/Rotunda-Thin.ttf);
+}
+@font-face {
+  font-family: "Rotunda-medium";
+  src: url(../public/fonts/Rotunda-Medium.ttf);
+}
+@font-face {
+  font-family: "Rotunda-light";
+  src: url(../public/fonts/Rotunda-Light.ttf);
+}
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+h1 {
+  color: #545457;
+  font-family: "Rotunda", Arial, Verdana, Tahoma, sans-serif;
+  font-size: 40px;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Rotunda";
+    src: url(/ROTUNDA/ROTUNDA/Rotunda-Regular.ttf);
+  }
+  @font-face {
+    font-family:"Rotunda-bold";
+    src: url(/ROTUNDA/ROTUNDA/Rotunda-Bold.ttf);
+  }
+  @font-face {
+    font-family:"Rotunda-thin";
+    src: url(/ROTUNDA/ROTUNDA/Rotunda-thin.ttf);
+  }
+  @font-face {
+    font-family:"Rotunda-medium";
+    src: url(public/ROTUNDA/ROTUNDA/Rotunda-medium.ttf);
+  }
